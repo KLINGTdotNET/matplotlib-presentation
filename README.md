@@ -2,7 +2,8 @@
 
 - the presentation is made as an IPython notebook
 - you can view it on [nbviewer.ipython.org](http://nbviewer.ipython.org/github/KLINGTdotNET/matplotlib-presentation/blob/master/matplotlib-presentation.ipynb)
+- the [official documentation](http://matplotlib.org/contents.html)
 
 ## License
 
-All the content is licensed under MIT if not stated otherwise. For more detais take a look at [./LICENSE](License) file.
+All the content is licensed under MIT if not stated otherwise. For more detais take a look at [LICENSE](./LICENSE) file.
