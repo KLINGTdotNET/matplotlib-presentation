@@ -1,4 +1,8 @@
-# A presentation of the matplotlib package for the [Digital Humanities course at University of Leipzig](http://www.dh.uni-leipzig.de/wo/)
+# A presentation of the matplotlib package for the [Digital Humanities course](http://www.dh.uni-leipzig.de/wo/) at the University of Leipzig
 
-- the presentation is made as IPython notebook
-- [./LICENSE](License)
+- the presentation is made as an IPython notebook
+- you can view it on [nbviewer.ipython.org](http://nbviewer.ipython.org/github/KLINGTdotNET/matplotlib-presentation/blob/master/matplotlib-presentation.ipynb)
+
+## License
+
+All the content is licensed under MIT if not stated otherwise. For more detais take a look at [./LICENSE](License) file.
